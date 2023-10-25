@@ -9,7 +9,7 @@ def encoder(password):
 while True:
     print('Menu')
     print('-------------')
-    print('1. Encode')
+    print('1. Encode ')
     print('2. Decode')
     print('3. Quit\n')
     option = input('Please enter an option: ')
